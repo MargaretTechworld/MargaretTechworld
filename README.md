@@ -3,7 +3,7 @@
 I am a graduate in computer science and I am currently enrolled in Microverse, a remote software development company that enables developers from all over the world to collaborate and build projects together. My ambition is to become a professional full stack developer, and I am eager to leverage my skills to serve you.
 
 ### 📓 Favourite Quote
-**“Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us. We ask ourselves, Who am I to be brilliant, gorgeous, talented, fabulous? Actually, who are you not to be? Your playing small does not serve the world. We were born to make manifest the glory of God that is within us. And as we let our own light shine, we unconsciously give other people permission to do the same.~Marianne Williamson”**
+Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us. We ask ourselves, Who am I to be brilliant, gorgeous, talented, fabulous? Actually, who are you not to be? Your playing small does not serve the world. We were born to make manifest the glory of God that is within us. And as we let our own light shine, we unconsciously give other people permission to do the same.~Marianne Williamson”
 
 ###  Reach me out! :mailbox:
 
