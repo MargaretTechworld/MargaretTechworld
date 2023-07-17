@@ -9,9 +9,6 @@ Our deepest fear is not that we are inadequate. Our deepest fear is that we are 
 
 [![Twitter Badge](https://img.shields.io/badge/-@KojoMargaret-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KojoMargaret)](https://twitter.com/KojoMargaret) [![Mail Badge](https://img.shields.io/badge/-MargaretFaithTechWorld-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@MargaretFaithTechWorld) [![Linkedin Badge](https://img.shields.io/badge/-MargaretKojoMusa-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/margaret-kojo-musa-13a408147/) [![Mail Badge](https://img.shields.io/badge/-margarettechworld-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:margarettechworld@gmail.com)
 ---
-<img src="https://media.tenor.com/UttC4AITYR4AAAAM/full-stack-developer.gif" style="width: 300px; height:150px;">
-<br>
-
 ### 💻 Top Technologies
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -23,8 +20,6 @@ Our deepest fear is not that we are inadequate. Our deepest fear is that we are 
 
 ### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=MargaretTechworld&show_icons=true&theme=radical">
-
-<br />
 <br />
 
 ### Profile Visits 
