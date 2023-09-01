@@ -1,10 +1,20 @@
  ## Hi I'm Margaret<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
  
-```javascript
-const message = "I am a graduate in computer science and I am currently enrolled in Microverse, a remote software development company that enables developers from all over the world to collaborate and build projects together. My ambition is to become a professional full stack developer, and I am eager to leverage my skills to serve you.";
+```html
+<style>
+.code-container {
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+</style>
 
-console.log(message);
-```
+<div class="code-container">
+  <code>
+  const message = "I am a graduate in computer science and I am currently enrolled in Microverse, a remote software development company that enables developers from all over the world to collaborate and build projects together. My ambition is to become a professional full stack developer, and I am eager to leverage my skills to serve you.";
+
+  console.log(message);
+  </code>
+</div>
 
 ### 📓 Favourite Quote
 Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us. We ask ourselves, Who am I to be brilliant, gorgeous, talented, fabulous? Actually, who are you not to be? Your playing small does not serve the world. We were born to make manifest the glory of God that is within us. And as we let our own light shine, we unconsciously give other people permission to do the same.~Marianne Williamson”
