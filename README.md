@@ -18,6 +18,9 @@ Our deepest fear is not that we are inadequate. Our deepest fear is that we are 
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
 <img align="left" src="https://img.shields.io/badge/react-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white"> 
 <img align="left" src="https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white"> 
+<img align="left" src="https://img.shields.io/badge/postgres-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white"> 
+<img align="left" src="https://img.shields.io/badge/ruby-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/rails-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white"> 
 
 <br>
 <br>
